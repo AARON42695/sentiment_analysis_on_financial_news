@@ -463,4 +463,4 @@ cd visualization/src
 python dash_frontend_final.py
 ```
 
-![Dash visualization app interface](https://github.ubc.ca/ltian05/better_dwelling_capstone/blob/master/readme_img/switch_indicator_graphs.gif)
+![Dash visualization app interface](https://raw.githubusercontent.com/AARON42695/sentiment_analysis_on_financial_news/master/readme_img/switch_indicator_graphs.gif)
