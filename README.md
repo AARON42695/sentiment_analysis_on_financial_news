@@ -1,5 +1,7 @@
 # better_dwelling_capstone
 
+![Dash visualization app interface](https://raw.githubusercontent.com/AARON42695/sentiment_analysis_on_financial_news/master/readme_img/switch_indicator_graphs.gif)
+
 #### Authors:
 
 Aaron Tian, Amy Lam, Jonathan TK Chan, Pandramishi Naga Sirisha
@@ -463,4 +465,4 @@ cd visualization/src
 python dash_frontend_final.py
 ```
 
-![Dash visualization app interface](https://raw.githubusercontent.com/AARON42695/sentiment_analysis_on_financial_news/master/readme_img/switch_indicator_graphs.gif)
+
